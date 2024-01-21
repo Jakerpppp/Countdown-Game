@@ -1,7 +1,7 @@
 # Countdown Problem Solver in C++
 
 Welcome to the Countdown Problem Solver implemented in C++ using Reverse Polish Notation (RPN)!
-- Made in October-November 2023
+- Made from October-November 2023
 
 ## Overview
 
